@@ -1,0 +1,5 @@
+train: C:\\Users\\MONSTER\\3D Objects\\yazprojeler\\klasor4\\nesneler\\elma_tanımlama\\elma_dataset\\images\\train
+val: C:\\Users\\MONSTER\\3D Objects\\yazprojeler\\klasor4\\nesneler\\elma_tanımlama\\elma_dataset\\images\\train
+
+nc: 2
+names: ["dost","dusman"]
